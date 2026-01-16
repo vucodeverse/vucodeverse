@@ -33,8 +33,10 @@ to improve code maintainability and extensibility.
 ---
 
 ### 🗄️ Database
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bd0e5607-3955-4796-818a-cec892af50f3" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/>
+<img src="https://github.com/user-attachments/assets/bd0e5607-3955-4796-818a-cec892af50f3"
+     width="120"
+     style="display:block;" />
+
 <img src="https://skillicons.dev/icons?i=sqlerver,spring,mysql,mongodb,oracle" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
