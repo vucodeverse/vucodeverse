@@ -34,7 +34,7 @@ to improve code maintainability and extensibility.
 
 ### 🗄️ Database
 <p align="left">
-  <img width="50" height="48" style="border-radius:10px;" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" />  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />   <img width="50" height="48" style="border-radius:10px;" alt="image" src="https://github.com/user-attachments/assets/e8df3c92-b68d-4473-98d5-beb3922c78bf" />
+  <img width="50" height="48" style="border-radius:25px;" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" />  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />   <img width="50" height="48" style="border-radius:25px;" alt="image" src="https://github.com/user-attachments/assets/e8df3c92-b68d-4473-98d5-beb3922c78bf" />
 
 </p>
 
