@@ -34,13 +34,14 @@ to improve code maintainability and extensibility.
 
 ### 🗄️ Database
 <p align="left">
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+
+
+
+  <!-- <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> -->
 </p>
 
 <!-- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> -->
 
 ---
 
