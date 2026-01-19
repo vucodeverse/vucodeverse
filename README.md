@@ -34,7 +34,7 @@ to improve code maintainability and extensibility.
 
 ### 🗄️ Database
 <p align="left">
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/29054fb0-6f43-48f6-853a-ea3b8ac1c975" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 <!-- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30"/> -->
