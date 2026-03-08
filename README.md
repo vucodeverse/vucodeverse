@@ -46,6 +46,7 @@ to improve code maintainability and extensibility.
 - Singleton (Spring Bean lifecycle)
 - Factory (Object creation abstraction)
 - Strategy & State (Behavior encapsulation)
+- Dependency Injection (Creational Patterns)
 ---
 
 ### 🧰 Other Tools & Technologies
